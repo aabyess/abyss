@@ -5,7 +5,7 @@
 # 나의 소개 
 
 안녕하세요. 나선욱입니다
-<img src="1.jpg" /> <br>
+<img src="1.jpg"  /> <br>
 # 나의 동아리 소개
 
 
@@ -19,4 +19,5 @@
 전국 대학생 IT 아이디어 대회
 [대상 수상작 발표자료](/presentation.pptx)
 
-만나서 반갑구리
+발표동영상
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lnrrpOYV4EM" title="[휴먼시네마] 일진들의 &quot;대장&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
