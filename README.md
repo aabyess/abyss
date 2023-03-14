@@ -21,3 +21,5 @@
 
 발표동영상
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MUElMuQuIfg" title="[휴먼시네마] 일진들이 무서워 하는 형.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Tgr9KOkjNnU" title="[22/23 PL 27R] 토트넘 vs 노팅엄 손흥민 주요장면" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
