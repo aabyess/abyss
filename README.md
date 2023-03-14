@@ -20,6 +20,4 @@
 [대상 수상작 발표자료](/presentation.pptx)
 
 발표동영상
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/lnrrpOYV4EM" title="[휴먼시네마] 일진들의 &quot;대장&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MUElMuQuIfg" title="[휴먼시네마] 일진들이 무서워 하는 형.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
